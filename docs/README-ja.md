@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Indonesian README](README-id.md)
 
 # ServiceLogos
 
@@ -140,5 +140,9 @@ issuesに投稿してください。確認次第作成します。
 | Wallhack                  | <img src="../Wallhack/WALLHACK.png" alt="Wallhack" width="100" />                                                                                                                                                                                                                                                                                         |
 | X                         | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 <!-- image-list: end -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
 
 各言語のREADMEで不整合があった場合は、日本語のREADMEを優先します。

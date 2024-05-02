@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Indonesian README](README-id.md)
 
 # ServiceLogos
 
@@ -66,7 +66,7 @@
 # 致謝
 
 這些標誌是衍生作品。  
-沒有什麼比每個官員使用的標誌更好的了。  
+沒有什麼比每個官方使用的標誌更好的了。  
 我們謹向在此發布服務的人表示最深切的謝意。
 
 # 圖片列表
@@ -141,5 +141,9 @@
 | X                         | <img src="../X/X.png" alt="X" width="100" />                                                                                                                                                                                                                                                                                                              |
 
 <!-- image-list: end -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
 
 如果每種語言的 README 不一致，則以日文 README 為準。
